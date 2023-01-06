@@ -1,0 +1,14 @@
+selenium
+requests
+urllib3
+numpy 
+pandas
+bs4
+pyspark
+geopy
+scikit-learn
+plotly
+mapbox
+utm
+geopandas
+matplotlib
